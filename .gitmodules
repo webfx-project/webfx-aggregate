@@ -1,0 +1,18 @@
+[submodule "webfx-extras"]
+	path = webfx-extras
+	url = https://github.com/webfx-project/webfx-extras.git
+[submodule "webfx"]
+	path = webfx
+	url = https://github.com/webfx-project/webfx.git
+[submodule "webfx-parent"]
+	path = webfx-parent
+	url = https://github.com/webfx-project/webfx-parent.git
+[submodule "webfx-platform"]
+	path = webfx-platform
+	url = https://github.com/webfx-project/webfx-platform.git
+[submodule "webfx-stack"]
+	path = webfx-stack
+	url = https://github.com/webfx-project/webfx-stack.git
+[submodule "webfx-stack-parent"]
+	path = webfx-stack-parent
+	url = https://github.com/webfx-project/webfx-stack-parent.git
